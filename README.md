@@ -11,7 +11,7 @@ You can find the detailed documentation in the PDF below:
 
 You can find codes for the project below:
 
-
+[Trajectory optimization using LQR and MPC](Trajectory-optimization-using-LQR-and-MPC/Trajectory%20optimization%20using%20LQR%20and%20MPC.pdf)
 ## Results
 
 ![Trajectory and Control Sequence obtained with LQR method without disturbance](./images/LQR1.png)
