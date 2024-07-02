@@ -19,3 +19,10 @@ You can find codes for the project below:
 
 
 *Figure 2: Trajectory and Control Sequence obtained with LQR method with disturbance
+
+![rajectory and Control Sequence obtained with MPC method with disturbance](./images/MPC1.png)
+
+
+*Figure 3: rajectory and Control Sequence obtained with MPC method with disturbance
+
+
