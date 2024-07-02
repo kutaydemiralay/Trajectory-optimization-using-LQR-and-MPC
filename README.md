@@ -7,7 +7,7 @@ In this project, our aim is to optimize the trajectory of a free-flying robot wi
 You can find the detailed documentation in the PDF below:
 
 
-[Trajectory optimization using LQR and MPC](Trajectory-optimization-using-LQR-and-MPC/Trajectory%20optimization%20using%20LQR%20and%20MPC.pdf)
+[Trajectory optimization using LQR and MPC](Trajectory-optimization-using-LQR-and-MPC/Trajectory%20optimization%20using%20LQR%20and%20MPC)
 
 You can find codes for the project below:
 
