@@ -12,3 +12,10 @@ You can find codes for the project below:
 ## Results
 
 ![Trajectory and Control Sequence obtained with LQR method without disturbance](./images/LQR1.png)
+
+*Figure 1: Trajectory and Control Sequence obtained with LQR method without disturbance
+
+![Trajectory and Control Sequence obtained with LQR method with disturbance](./images/LQR2.png)
+
+
+*Figure 2: Trajectory and Control Sequence obtained with LQR method with disturbance
