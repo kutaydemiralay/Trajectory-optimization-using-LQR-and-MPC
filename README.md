@@ -10,7 +10,7 @@ You can find the detailed documentation in the PDF below:
 
 You can find codes for the project below:
 
-[Project Code](./Neural_Network_Architectures_for_FashionMNIST_Classification_KutayDemiralay.ipynb)
+[Project Code](./Trajectory_optimization_using_LQR_and_MPC_KutayDemiralay.ipynb)
 
 ## Results
 
